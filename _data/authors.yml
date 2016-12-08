@@ -1,0 +1,67 @@
+######### EXAMPLE #########
+###########################
+#
+#author:
+#  name             : "[RiMµ]"
+#  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "[RiMµ] : Community of Rimworld Modders that are working together"
+#  location         : "Transcendent worlds"
+#  email            : 
+#  uri              :
+#  bitbucket        :
+#  codepen          :
+#  dribbble         :
+#  flickr           :
+#  facebook         :
+#  foursquare       :
+#  github           : 
+#  reddit           :
+#  google_plus      :
+#  keybase          :
+#  instagram        :
+#  lastfm           :
+#  linkedin         :
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+#  steam            :
+#  tumblr           :
+#  twitter          : 
+#  vine             :
+#  weibo            :
+#  xing             :
+#  youtube          :
+#  
+###########################
+###########################
+
+rudy_d:
+  name             : Rudy D
+  avatar           : "/assets/images/rd.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : 
+  location         : "France"
+  email            : 
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "del-r"
+  reddit           : 
+  google_plus      :
+  keybase          : 
+  instagram        :
+  lastfm           : 
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            : 
+  tumblr           :
+  twitter          : "delansay_rudy"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
